@@ -6,15 +6,6 @@ Sou apaixonado por tecnologia, possuo pós graduação em Engenharia de Software
 - Arquitetura de software;
 - Governança de TI;
 - Scrum
-- COBIT
-- ITIL
-- C#
-- NodeJs
-- NodeJs
-- Azure
-- AWS
-
-
 
 
 
