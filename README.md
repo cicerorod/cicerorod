@@ -1,9 +1,22 @@
-### Hi there 👋
+## Olá, sejam bem vindos ao meu Github!
 
-<!--
-**cicerorod/cicerorod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, possuo pós graduação em Engenharia de Software pela PUC-SP  e Bacharelado em Ciência da Computação pela Unifenas-MG. Vivo em constante aprendizado e meus principais interesses são:
 
-Here are some ideas to get you started:
+- DevOps;
+- Arquitetura de software;
+- Governança de TI;
+- Scrum
+- COBIT
+- ITIL
+- C#
+- NodeJs
+- NodeJs
+- Azure
+- AWS
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
